@@ -5,6 +5,7 @@
   color: #6c6b6b;
 }
 
+
 a {
   text-decoration: none;
 }
@@ -156,6 +157,8 @@ main {
   line-height: 0.6;
 }
 
+
+
 .sidebar-contents {
   padding: 50px 0;
 }
@@ -227,6 +230,7 @@ footer {
   color: #fff;
 }
 
+/*レスポンシブ対応*/
 
 @media screen and (max-width: 425px) {
   header {
